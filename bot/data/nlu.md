@@ -4,8 +4,22 @@
 - Oi
 - oi
 - bom dia
+- booom dia
+- bomdia
 - boa tarde
+- boaa tarde
+- boatarde
 - boa noite
+- boaaa noite
+- boanoite
+- oi bot
+- ola bot
+- oi ola
+- hey 
+- oie
+- oi oi
+- olaaaa
+- oieh
 
 ## intent:despedir
 - tchau
@@ -98,13 +112,20 @@
 - conhece alguma [piada](piada)
 - [piada](piada)
 - me conte uma [piada](piada)
-- me conta uma piada
+- me conta uma [piada](piada)
 - conte-me uma [piada](piada)
 - manda uma [piada](piada) ai
-- me conta uma coisa engraçada
-- me fala uma piada
+- me conta uma [coisa engraçada](piada)
+- me fala uma [piada](piada)
 - me faz rir
 - vc sabe fazer rir
+- sabe alguma [piada](piada)
+- voce sabe contar [anedota](piada)
+- conhece alguma [piadoca](piada)
+- [piada](piada)
+- me conte uma [lorota](piada)
+- diga uma [coisa engraçada](piada)
+
 
 ## intent:license
 - qual e a sua [licença](license)
@@ -552,3 +573,21 @@
 - Quero saber algo dos [gatos](gato)
 - O que voce sabe sobre [gatinho](gato?)
 - o que vc sabe sobre [gatos](gato)?
+
+
+## intent: bots_brasil
+- O que é a [bots brasil](bots_brasil)
+- Me fale sobre a [conferência bots brasil](bots_brasil)
+- O que você sabe sobre a [#ConfBotsBrasil](bots_brasil)?
+- [Conferência Bots Brasil](bots_brasil)
+- [Bots Brasil](bots_brasil)
+- Sobre a [Bots Brasil](bots_brasil), me conte
+- Conversar sobre a [#ConfBotsBrasil](bots_brasil)
+- Me fala da [Bots Brasil](bots_brasil)
+- Me diga da [Conferencia Bots Brasil](bots_brasil)
+- Falando da [Bots Brasil](bots_brasil)
+- Quero falar da [Conferência Bots Brasil](bots_brasil)
+- Como eh a [Bots Brasil](bots_brasil)
+- Gostaria de saber sobre a [ConfBotsBrasil](bots_brasil)
+- Me informe sobre a [BotsBrasil](bots_brasil)
+- Fale-me sobre a [#BotsBrasil](bots_brasil)

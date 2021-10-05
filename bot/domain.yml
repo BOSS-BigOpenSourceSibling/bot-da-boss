@@ -43,6 +43,8 @@ intents:
 - informar_nome
 - casa_hogwarts
 - fatos_sobre_gatos
+- bots_brasil
+
 entities:
 - religiao
 - time
@@ -65,6 +67,8 @@ entities:
 - data_nascimento
 - nome
 - gato
+- bots_brasil
+
 slots:
   telefone:
     type: unfeaturized
@@ -76,6 +80,7 @@ slots:
     type: text
   fatos_sobre_gatos:
     type: list
+    
 responses:
   utter_fallback:
   - text: "Desculpe, ainda não sei falar sobre isso ou talvez não consegui entender\
@@ -266,7 +271,12 @@ responses:
     - text: Aqui vai um fato sobre gato...
     - text: Uma coisa legal sobre gatos...
     - text: Um fato sobre gatinhos...
-
+  utter_bots_brasil:
+  - text: "Bots Brasil é um evento sobre interfaces conversacionais que conecta comunidades, empresas, plataformas\
+      \ e especialistas do mercado para compartilhar experiências e criar oportunidades."
+  - text: "A Bots Brasil conecta pessoas e compartilha conteúdos relacionados à Bots, Inteligência Artificial\
+      \ e Interfaces Conversacionais em Português. :)"
+      
 actions:
 - action_teste
 - action_telefone

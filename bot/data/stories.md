@@ -378,3 +378,14 @@
 * fatos_sobre_gatos
     - utter_fato_sobre_gatos
     - action_cat_facts
+
+## path_bots_brasil_1
+* bots_brasil
+    - utter_bots_brasil
+
+## path_bots_brasil_2
+* cumprimentar
+    - utter_cumprimentar
+* bots_brasil
+    - utter_bots_brasil
+    - utter_continuar_conversa
