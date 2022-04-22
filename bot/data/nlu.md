@@ -2,9 +2,24 @@
 - olá
 - Ola
 - Oi
+- oi
 - bom dia
+- booom dia
+- bomdia
 - boa tarde
+- boaa tarde
+- boatarde
 - boa noite
+- boaaa noite
+- boanoite
+- oi bot
+- ola bot
+- oi ola
+- hey 
+- oie
+- oi oi
+- olaaaa
+- oieh
 
 ## intent:despedir
 - tchau
@@ -97,13 +112,20 @@
 - conhece alguma [piada](piada)
 - [piada](piada)
 - me conte uma [piada](piada)
-- me conta uma piada
+- me conta uma [piada](piada)
 - conte-me uma [piada](piada)
 - manda uma [piada](piada) ai
-- me conta uma coisa engraçada
-- me fala uma piada
+- me conta uma [coisa engraçada](piada)
+- me fala uma [piada](piada)
 - me faz rir
 - vc sabe fazer rir
+- sabe alguma [piada](piada)
+- voce sabe contar [anedota](piada)
+- conhece alguma [piadoca](piada)
+- [piada](piada)
+- me conte uma [lorota](piada)
+- diga uma [coisa engraçada](piada)
+
 
 ## intent:license
 - qual e a sua [licença](license)
@@ -391,6 +413,78 @@
 - Como que vc pode me ser útil?
 - Me fale mais sobre você.
 
+## intent:daria
+- Vc conhece Daria?
+- Você já assistiu Daria?
+- Quem é Daria?
+- Quem é Daria Morgendorffer?
+- série Daria
+- Daria Morgendorffer
+- Daria MTV
+- daria mtv
+- série daria
+- vc já viu Daria?
+- você já viu o desenho Daria?
+- desenho Daria
+- animação daria
+
+## intent:anime
+- Me fale sobre animes
+- Você gosta de anime?
+- Já assistiu anime?
+- me indica um anime
+- anime favorito
+- anime preferido
+- tipo de anime
+- quais animes
+
+## intent:avatar
+- Vc conhece Avatar?
+- Você conhece Avatar?
+- Vc já ouviu falar de Avatar?
+- Você já ouviu falar de Avatar?
+- Eu gosto de Avatar
+- Me fala sobre Avatar
+- Fala sobre Avatar
+- Avatar
+- avatar
+- Você já viu Avatar?
+- Vc já viu Avatar?
+
+## intent:harry_potter
+- voce ja assistiu harry potter?
+- voce conhece harry potter?
+- vamos conversar de harry potter
+- o que voce sabe sobre harry potter?
+- ja ouviu falar sobre hogwarts?
+- vc ja leu harry potter?
+- livros de harry potter
+- filmes de harry potter
+
+## intent:friends
+- Me fale sobre friends
+- Me diga sobre friends 
+- A série friends
+- Quero saber mais sobre friends
+- Me conta sobre friends
+- Vamos conversar sobre friends
+- Vamos falar sobre friends
+- Fale sobre friends
+- Conte sobre friends
+
+## intent:o_que_e_boss
+- O que é a boss?
+- Quem é boss?
+- o que e boss
+- quem eh boss
+- a boss é o que
+- o que a boss faz
+- quero saber mais sobre a boss
+- me diga mais sobre a boss
+- me fala mais sobre a boss
+- me dá informações sobre a boss
+- A iniciativa boss
+
 ## intent:cancelar
 - Desisto
 - Para
@@ -424,3 +518,76 @@
 - esqueça os meus dados
 - remova meu CPF e data de nascimento
 - limpar dados
+
+## intent:pedir_conselho
+- Me diga um conselho
+- Me de um conselho
+- Me dê um conselho
+- queria um conselho
+- qual conselho você me dá
+- qual conselho você me da
+- conselho
+
+## intent:informar_nome
+- O meu nome é [Ana](nome)
+- meu nome é [Luzia](nome)
+- Me chamo [Maria Carolina](nome)
+- me chamo [João](nome)
+- Pode me chamar de [Amanda](nome)
+- Se refira a mim como [Marianna](nome)
+- me chamam de [bruna](nome)
+- Se refira a mim como [Brenda](nome)
+- me chamam de [Flor](nome)
+
+## intent:casa_hogwarts
+- Quero saber minha casa de Hogwarts
+- Qual a minha casa de Hogwarts
+- minha casa de hogwarts
+- Sortear casa de Hogwarts
+- Usar chapéu seletor
+- Descobrir minha casa de hogwarts com o chapéu seletor
+- chapéu seletor de hogwarts
+- Saber minha casa de hogwarts
+- Encontrar minha casa de hogwarts
+- Como saber qual a minha casa de hogwarts
+
+## intent:fatos_sobre_gatos
+- Me conte um fato de [gato](gato)
+- Quero saber sobre [gatos](gato)
+- Me fala um fato de [gatos](gato)
+- Vamos conversar sobre [gatos](gato)
+- Me conte sobre [gatinhos](gato)
+- Falar sobre [gatinhos](gato)
+- Conversar sobre [gatos](gato)
+- Quero saber um fato sobre [gato](gato)
+- quero saber de [gatinhos](gato)
+- um fato de [gato](gato)
+- quero conversar sobre [gatinhos](gato)
+- vc pode falar de [gatos](gato)?
+- vc quer conversar sobre [gato](gato)?
+- você pode me dizer um fato dos [gatos](gato)?
+- me conta algo sobre [gatos](gato)
+- Me fala de [gatinhos](gato)
+- Me diga um fato de [gatos](gato)
+- Um fato de [gatinhos](gato)
+- Quero saber algo dos [gatos](gato)
+- O que voce sabe sobre [gatinho](gato?)
+- o que vc sabe sobre [gatos](gato)?
+
+
+## intent: bots_brasil
+- O que é a [bots brasil](bots_brasil)
+- Me fale sobre a [conferência bots brasil](bots_brasil)
+- O que você sabe sobre a [#ConfBotsBrasil](bots_brasil)?
+- [Conferência Bots Brasil](bots_brasil)
+- [Bots Brasil](bots_brasil)
+- Sobre a [Bots Brasil](bots_brasil), me conte
+- Conversar sobre a [#ConfBotsBrasil](bots_brasil)
+- Me fala da [Bots Brasil](bots_brasil)
+- Me diga da [Conferencia Bots Brasil](bots_brasil)
+- Falando da [Bots Brasil](bots_brasil)
+- Quero falar da [Conferência Bots Brasil](bots_brasil)
+- Como eh a [Bots Brasil](bots_brasil)
+- Gostaria de saber sobre a [ConfBotsBrasil](bots_brasil)
+- Me informe sobre a [BotsBrasil](bots_brasil)
+- Fale-me sobre a [#BotsBrasil](bots_brasil)
